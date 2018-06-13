@@ -1,0 +1,10 @@
+{
+  "Gemfile": "0b0ef34a57239868636b26141342423f",
+  "README.md": "2cb4196e2d247583e519d49a38951a44",
+  "Rakefile": "158b889261acd98356f6e0f2a031b6b9",
+  "examples/init.pp": "5c0b23913bffe47c269533dc59c218f3",
+  "manifests/init.pp": "af7c471126f8bc55cd9ed0ebb0fb054a",
+  "metadata.json": "eb0c84ad8ee7363f0105e268f58658b5",
+  "spec/classes/init_spec.rb": "43fede2f5d345ad61672ff363287a3f3",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}

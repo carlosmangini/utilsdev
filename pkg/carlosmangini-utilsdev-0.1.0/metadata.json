@@ -1,0 +1,17 @@
+{
+  "name": "carlosmangini-utilsdev",
+  "version": "0.1.0",
+  "author": "carlosmangini",
+  "summary": "Instalação basica de pacotes para ambiente DEV",
+  "license": "Apache-2.0",
+  "source": "https://github.com/carlosmangini/utilsdev.git",
+  "project_page": "https://github.com/carlosmangini/utilsdev",
+  "issues_url": "https://github.com/carlosmangini/utilsdev/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
